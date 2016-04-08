@@ -8,5 +8,9 @@
     "heroku-postbuild": "npm run webpack:deploy"
   },
   "author": "Lucas",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
 }
